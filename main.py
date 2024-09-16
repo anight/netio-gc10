@@ -3,9 +3,7 @@ import asyncio
 import network
 import picoweb
 import time
-import re
 import gc
-import sys
 import local_config
 
 class App:
