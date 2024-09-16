@@ -6,3 +6,4 @@ REPL must be disabled in boot.py
 
 Schematic: https://oshwlab.com/anight/netio-gc10
 
+![My device](photo0001.jpeg)
