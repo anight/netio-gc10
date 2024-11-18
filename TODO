@@ -1,0 +1,4 @@
+- disable webrepl
+- add mdns
+- add ota updates
+- add mqtt support
